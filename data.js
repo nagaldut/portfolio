@@ -22,7 +22,7 @@ const main = {
     }
   ],
   links: [
-    { name: 'Projects', link: 'https://github.com/nagaldut' },
+    { name: 'Projects', link: ''projects.html'' },
     { name: 'Blogs', link: 'https://medium.com/@neha' },
     { name: 'Resume', link: 'https://drive.google.com/file/d/1GqQslKwhWtEsjdyRv3FMWQaG3bAq7Mf3/view?usp=sharing'},
   ]
